@@ -1,11 +1,2 @@
-app.py filter=lfs diff=lfs merge=lfs -text
-Documentation filter=lfs diff=lfs merge=lfs -text
-plant's[[:space:]]_doctor_ultimate.tar.xz filter=lfs diff=lfs merge=lfs -text
-static filter=lfs diff=lfs merge=lfs -text
-upload.webp filter=lfs diff=lfs merge=lfs -text
-5f6bbcf3ef96e.image.jpg filter=lfs diff=lfs merge=lfs -text
-all_models filter=lfs diff=lfs merge=lfs -text
-templates filter=lfs diff=lfs merge=lfs -text
-tomato-blight_1551155015379.jpeg filter=lfs diff=lfs merge=lfs -text
-myimages filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
+all_models/ filter=lfs diff=lfs merge=lfs -text
+.h5 filter=lfs diff=lfs merge=lfs -text
