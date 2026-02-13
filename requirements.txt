@@ -1,0 +1,16 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.5
+Flask-Bcrypt==1.0.1
+Flask-Mail==0.9.1
+python-dotenv==1.0.0
+PyMySQL==1.1.0
+cryptography==41.0.3
+
+# ML Dependencies
+tensorflow==2.13.0
+numpy==1.24.3
+opencv-python==4.8.0.76
+
+# Utilities
+Werkzeug==2.3.7
